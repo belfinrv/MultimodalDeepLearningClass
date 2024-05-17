@@ -1,4 +1,4 @@
-#Classification of Independent Components from rs-fMRI Data
+# Classification of Independent Components from rs-fMRI Data
 
 ## Project Overview
 **Title**: Classification of Independent Components from rs-fMRI Data  
