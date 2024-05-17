@@ -103,5 +103,4 @@
 
 **Computational Resources**: Ensure access to adequate computational resources for model training and deployment.
 
-By following this design document, the project aims to develop a robust and accurate system for classifying independent components from rs-fMRI data, ultimately advancing the understanding and diagnosis of neurological conditions.
 
