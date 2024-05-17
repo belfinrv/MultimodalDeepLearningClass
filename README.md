@@ -47,17 +47,14 @@
 - **Optimization Algorithm**: Adam optimizer for efficient training.
 - **Regularization Techniques**: Dropout and batch normalization to prevent overfitting.
 
+![Model Design](my_model.png)
+
 ## Implementation Plan
 **Development Timeline**:
 - Phase 1: Data Collection and Preprocessing (1 month)
 - Phase 2: Model Development (2 months)
 - Phase 3: Training and Validation (1 month)
 - Phase 4: Deployment and Integration (1 month)
-
-**Resource Allocation**:
-- Data Scientist: 2 members
-- Software Engineer: 1 member
-- Research Assistant: 1 member
 
 **Risk Management**:
 - Data Quality Issues: Regular data audits and preprocessing steps.
@@ -78,9 +75,6 @@
 **Deployment Strategy**:
 - Deploy the model using a cloud-based platform for scalability.
 - Implement monitoring and logging to track model performance in real-time.
-
-**User Interface**:
-- Develop a user-friendly dashboard for researchers to visualize classification results and model performance.
 
 ## Maintenance and Updates
 **Continuous Learning**:
