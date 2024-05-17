@@ -3,8 +3,7 @@
 ## Project Overview
 **Title**: Classification of Independent Components from rs-fMRI Data  
 **Objective**: To classify independent components derived from rs-fMRI data into 12 distinct classes using a multimodal approach.  
-**Scope**: This project focuses on leveraging deep learning techniques, specifically 3D Convolutional Neural Networks (3D CNNs) and Multilayer Perceptrons (MLPs), to achieve accurate classification of rs-fMRI independent components.  
-**Stakeholders**: Research Team, Neurology Department, Data Science Team  
+**Scope**: This project focuses on leveraging deep learning techniques, specifically 3D Convolutional Neural Networks (3D CNNs) and Multilayer Perceptrons (MLPs), to achieve accurate classification of rs-fMRI independent components.   
 
 ## Requirements Analysis
 **Functional Requirements**:
